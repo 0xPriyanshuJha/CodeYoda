@@ -67,7 +67,7 @@ After launching CodeYoda, you can interact with it via a command-line interface 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## Acknowledgements
 
